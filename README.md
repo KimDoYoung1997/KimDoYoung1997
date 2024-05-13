@@ -3,7 +3,6 @@
 <!--</p>-->
   
 
-https://github.com/KETI-MoRo
 - 🎓 I graduated from JeonBuk National University, department of Mechanincal Design.
 - ✒️ Now, I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot.](https://github.com/KETI-MoRo)
 - 🔖 Mobile robot navigtation.
