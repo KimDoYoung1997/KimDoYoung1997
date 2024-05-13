@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <h2> My tech stack 📚 </h2>
 
 
-![C++]([=white](https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
