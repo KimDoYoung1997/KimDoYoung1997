@@ -3,10 +3,10 @@
 <!--</p>-->
   
 
-- Hello! I'm a developer with a strong passion for mobile robot navigation and a keen interest in SLAM and deep reinforcement learning. I'm open to discussions on these subjects. Let's dive into robotics and autonomous systems together!  
-- 🎓 I graduated from JeonBuk National University, department of Mechanincal Design.
-- ✒️ Now, I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot.](https://github.com/KETI-MoRo)
-- 🔖 Mobile robot navigtation.
+- 🔖  Hello! I'm a developer with a strong passion for mobile robot navigation and a keen interest in SLAM and deep reinforcement learning. I'm open to discussions on these subjects. Let's dive into robotics and autonomous systems together!  
+- 🎓  I graduated from JeonBuk National University, department of Mechanincal Design.
+- ✒️  Now, I'm working at Korea Electronics Technology Institute, [KETI IRRC Mobile Robot.](https://github.com/KETI-MoRo)
+- 😄  I'm open to discussions on these subjects. Let's dive into robotics and autonomous systems together!  
 
 <h3 style="text-align: left;">Programming</h3>
 <p style="text-align: left;">
