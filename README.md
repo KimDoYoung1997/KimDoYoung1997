@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Stay%20Hungry)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there~)
 
 ### Working now
 <!--<p align="center">-->
